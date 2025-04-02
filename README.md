@@ -11,4 +11,6 @@ Podría ser de la siguiente manera, con el objetivo de excluir un archivo de tex
 
 
 #Excluye los archivos .txt
+
+
 *.txt
