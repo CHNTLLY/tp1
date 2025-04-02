@@ -14,3 +14,7 @@ Podría ser de la siguiente manera, con el objetivo de excluir un archivo de tex
 
 
 *.txt
+
+
+## ¿Que archivos ve en su repositorio de github? ¿Cual cree que no hace falta que esté?
+Se pueden ver los archivos .gitignore, README.md, archivo.txt, tp1_1.c, tp1_1.exe, este ultimo no debería estar subido al repositorio
